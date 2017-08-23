@@ -19,7 +19,11 @@ import org.springframework.web.bind.annotation.*;
 import javax.annotation.Resource;
 import java.util.Date;
 import java.util.List;
-
+/**
+ * 使用git提交
+ * @author 李超
+ *
+ */
 @Controller
 @RequestMapping("/seckill")
 public class SeckillController {
